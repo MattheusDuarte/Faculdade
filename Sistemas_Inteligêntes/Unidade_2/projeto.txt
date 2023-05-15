@@ -1,0 +1,20 @@
+* Problema
+   - Determinar posição de antenas de forma a cobrir o máximo de clientes.
+
+ - Descrição intuitiva:
+   - Um provedor de internet sem fio pretende instalar antenas em uma comunidade. Todas as antenas 
+utilizadas tem o mesmo alcance. Deseja-se determinar a posição das antenas na comunidade de forma a 
+cobrir o máximo de clientes.
+
+ - Dados de entrada:
+   - O alcance, em unidades de distância, das antenas.
+   - O número de antenas.
+   - A lista de posições (pares de coordenadas) dos moradores da comunidade.
+
+ - Dados de saída
+   - Lista de posições (pares de coordenadas) das antenas.
+
+ - Característica a ser otimizada:
+   - Maximizar o número de pessoas cobertas pelas antenas nas posições dadas.
+
+
